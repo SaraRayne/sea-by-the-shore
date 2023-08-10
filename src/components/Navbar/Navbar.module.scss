@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+
+  .navbarIcon {
+    margin: 1rem;
+  }
+
+  .navbarList {
+    display: flex;
+    list-style-type: none;
+  }
+
+  .navbarElement {
+    font-size: 1.2rem;
+    margin-left: 2rem;
+  }
+}
